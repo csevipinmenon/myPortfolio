@@ -12,6 +12,6 @@ Features:
 ✅ Projects showcase with live previews
 ✅ Contact form for easy communication
 
-Live Demo: [Your Live Link Here]
-GitHub Repository: [Your Repo Link Here]
+Live Demo: [https://csevipinmenon.github.io/myPortfolio/]
+GitHub Repository: [https://github.com/csevipinmenon?tab=repositories]
 🚀 Feel free to check it out and leave feedback! 😊
